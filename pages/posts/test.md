@@ -1,32 +1,32 @@
 ---
-title: Markdown Examples
-date: 2021/3/19
-description: View examples of all possible Markdown options.
-tag: web development
+title: Test
+date: 2024/01/30
+description: Creating a blog post. 
+tag: test
 author: You
 ---
 
 # Markdown Examples
 
-## h2 Heading
+## h2 Does
 
-### h3 Heading
+### h3 This
 
-#### h4 Heading
+#### h4 Really
 
-##### h5 Heading
+##### h5 Work
 
-###### h6 Heading
+###### h6 ???
 
-## Emphasis
+## I don't believe it's this easy.
 
-**This is bold text**
+**Supposedly, this is bold text. We'll see.**
 
-_This is italic text_
+_Not that I'm doubtful this will ACTUALLY come out in itallics_
 
-~~Strikethrough~~
+~~I mean, a strikethrough? Let's see about that.~~
 
-## Blockquotes
+## WTF is blockquotes??
 
 > Develop. Preview. Ship. – Vercel
 
@@ -34,16 +34,16 @@ _This is italic text_
 
 Unordered
 
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
+- First point.
+- Second point.
+- Third point.
 
 Ordered
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
+1. First point.
+2. Second point.
+3. Third point.
+4. 
 ## Code
 
 Inline `code`
@@ -75,11 +75,11 @@ export default function Nextra({ Component, pageProps }) {
 
 ## Tables
 
-| **Option** | **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| **Option** | **ok?** |
+| ---------- | ------- |
+| First      | ok.     |
+| Second     | okok.   |
+| Third      | okokok. |
 
 ## Links
 
