@@ -3,7 +3,7 @@ title: start-up post-mortem
 date: 2024/01/30
 description: A post-mortem analysis of the birth, life, and death of Let Me Graduate. 
 tag: start-up
-author: You
+author: Arina
 ---
 
 # Markdown Examples
