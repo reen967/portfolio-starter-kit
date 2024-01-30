@@ -1,8 +1,8 @@
 ---
-title: Test
+title: start-up post-mortem
 date: 2024/01/30
-description: Creating a blog post. 
-tag: test
+description: A post-mortem analysis of the birth, life, and death of Let Me Graduate. 
+tag: start-up
 author: You
 ---
 
