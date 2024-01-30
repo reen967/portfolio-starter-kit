@@ -15,9 +15,7 @@
 }
 
 body {
-  font-family: 'Inter var', system-ui, -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif,
-    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: Verdana, sans-serif; /* Change font-family to Verdana */
   -webkit-font-smoothing: subpixel-antialiased;
   font-feature-settings: 'case' 1, 'cpsp' 1, 'dlig' 1, 'cv01' 1, 'cv02',
     'cv03' 1, 'cv04' 1;
@@ -63,3 +61,4 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+
