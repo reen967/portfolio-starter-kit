@@ -6,6 +6,8 @@ tag: skills taxonomies
 author: Arina
 ---
 
+# Skills Taxonomies
+
 The purpose of a skills taxonomy is to evaluate what people know how to do so that we can understand where they might thrive. This is important for empowering people to pursue the things they are good at and to help us understand what we need to get better at to qualify to do the things we want to do. Now, to understand how we can qualify to do the things we want to do, those responsible for providing the opportunities for those things also need to provide a clear list of expectations we must meet to be granted those opportunities. We're surprisingly bad at understanding what we're good at, and those responsible for creating opportunities for us to execute are surprisingly bad at letting us know how we can get there. This predicament results in a massive loss of human potential that falls through the cracks and this concerns us all. You may have heard the saying "you can't judge a fish by its ability to climb a tree."  Consider yourself the fish, climbing the task, and the tree the subject of the task:
 
 | **Skill** | **Subject** |
