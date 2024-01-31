@@ -1,7 +1,7 @@
 ---
 type: posts
-title: thoughts
+title: posts
 date: 2024-01-30
 ---
 
-# Thoughts
+# Posts
