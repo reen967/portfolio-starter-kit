@@ -1,14 +1,14 @@
 @font-face {
   font-family: 'Inter var';
   font-style: normal;
-  font-weight: 75 675;
+  font-weight: 100 900;
   font-display: block;
   src: url(/fonts/Inter-roman.latin.var.woff2) format('woff2');
 }
 @font-face {
   font-family: 'Inter var';
   font-style: italic;
-  font-weight: 75 675;
+  font-weight: 100 900;
   font-display: block;
   src: url(/fonts/Inter-italic.latin.var.woff2) format('woff2');
   font-named-instance: 'Italic';
@@ -19,10 +19,10 @@ body {
   -webkit-font-smoothing: subpixel-antialiased;
   font-feature-settings: 'case' 1, 'cpsp' 1, 'dlig' 1, 'cv01' 1, 'cv02',
     'cv03' 1, 'cv04' 1;
-  font-variation-settings: 'wght' 350;
+  font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
-  letter-spacing: -0.015em;
-  font-size: 16px; /* Adjusted font size */
+  letter-spacing: -0.02em;
+  font-size: 14px; /* Adjusted font size */
 }
 b,
 strong,
@@ -30,13 +30,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-variation-settings: 'wght' 550;
+  font-variation-settings: 'wght' 650;
 }
 h1 {
-  font-variation-settings: 'wght' 750;
+  font-variation-settings: 'wght' 850;
 }
 h2 {
-  font-variation-settings: 'wght' 650;
+  font-variation-settings: 'wght' 750;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
