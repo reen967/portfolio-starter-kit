@@ -47,14 +47,22 @@ Candidates are evaluated on prestige rather than competency and the employer sti
 
 Let's say you had a bit more information about the learning opportunities the candidates undertook to earn their degrees. 
 
-| `Candidate #1` | Bachelor of Science in Accounting | USC |
-|----------------------------------------------------------|
-|Course Name                                               |
+`Candidate #1`, Bachelor of Science in Accounting, USC 
 
-| `Candidate #2` | Bachelor of Science in Accounting | USC |
-|----------------------------------------------------------|
-|Course Name                                               |
+- Course Name
+- Course Name
+- Course Name
 
-| `Candidate #3` | Bachelor of Science in Accounting | SNHU |
-|-----------------------------------------------------------|
-|Course Name                                                |  
+
+`Candidate #2`, Bachelor of Science in Accounting, USC
+
+- Course Name
+- Course Name
+- Course Name
+
+
+`Candidate #3`, Bachelor of Science in Accounting, SNHU
+
+- Course Name
+- Course Name
+- Course Name
