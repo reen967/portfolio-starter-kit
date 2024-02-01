@@ -47,7 +47,8 @@ Candidates are evaluated on prestige rather than competency and the employer sti
 
 Let's say you had a bit more information about the learning opportunities the candidates undertook to earn their degrees. 
 
-| `Candidate #1`, Bachelor of Science in Accounting, USC |
+`Candidate #1`
+| Bachelor of Science in Accounting, USC |
 |---------------------|
 | BUAD 280 Introduction to Financial Accounting |
 | BUAD 281 Introduction to Managerial Accounting |
