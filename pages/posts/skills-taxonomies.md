@@ -10,10 +10,10 @@ author: Arina
 
 A taxonomy is a classification system. A skills taxonomy provides a framework for understanding skills allowing us to assess:
 
-what people can do,
-what organizations need people to do,
-identify the people who can do those things,
-identify and recommend learning content.
+- what people can do,
+- what organizations need people to do,
+- identify the people who can do those things,
+- identify and recommend learning content.
 
 In higher education skills taxonomies can help institutions assess prior learning, preventing learners from unnecessarily repeating material they are already competent in, and identify knowledge gaps to make recommendations on the learning materials that can be used to fill them.
 
