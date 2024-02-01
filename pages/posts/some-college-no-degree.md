@@ -2,7 +2,7 @@
 title: Some College, No Degree
 date: 2024/02/01
 description: Employers disregard learning acquired by 20% of working-age Americans
-tag: some college no degree; skills based hiring
+tag: some college no degree, skills based hiring
 author: Arina
 ---
 
