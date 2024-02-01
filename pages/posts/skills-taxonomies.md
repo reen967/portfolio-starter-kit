@@ -156,6 +156,37 @@ There are infinite combinations of courses a student may have taken. To render a
 
 `Candidate #3`, Bachelor of Science in Accounting, SNHU
 
-- Course Name
-- Course Name
-- Course Name
+```js
+- ACC 201 Financial Accounting
+- ACC 202 Managerial Accounting
+- BUS 206 Business Law I
+- BUS 210 Managing and Leading in Business
+- BUS 225 Critical Business Skills for Success
+- BUS 400 Driving Business Opportunities
+- FIN 320 Principles of Finance
+- INT 220 Global Dimensions in Business
+- MKT 205 Applied Marketing Strategies
+- QSO 321 People, Planet, and Profit
+- ACC 315 Accounting Information Systems
+- ACC 317 Intermediate Accounting I
+- ACC 318 Intermediate Accounting II
+- ACC 330 Federal Taxation I
+- ACC 345 Financial Statement Analysis/ Business Valuation
+- ACC 350 Volunteer Income Tax Assistance
+- ACC 405 Advanced Accounting
+- ACC 430 Data Analytics for Financial Professionals
+- ACC 311 Cost Accounting
+- ACC 550 Cost Accounting
+- ACC 411 Auditing Principles
+- ACC 496 Experiential Learning for Accounting
+- ACC 201 Financial Accounting
+- ACC 202 Managerial Accounting
+- BUS 206 Business Law I
+- BUS 210 Managing and Leading in Business
+- BUS 225 Critical Business Skills for Success
+- BUS 400 Driving Business Opportunities
+- FIN 320 Principles of Finance
+- INT 220 Global Dimensions in Business
+- MKT 205 Applied Marketing Strategies
+- QSO 321 People, Planet, and Profit
+```
