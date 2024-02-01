@@ -126,12 +126,16 @@ In a perfect world (where there's an agreed-upon skills taxonomy where all stake
 
 The general gist of the first three courses seems similar enough not to be an issue: Economics, Economics, and Calculus. 
 
-The key differences between the candidates are that while
+The key difference between the candidates is that while
 
 - `Candidate #1` has experience in _Fraudulent Reporting_ and _Tax Issues_,
 - `Candidate #2`, instead, has experience with _Auditing_ and _Financial Reporting_.
 
 These differences could be significant enough to enable the prospective employer to decide which candidate is best suited for a role.
+
+There's a huge chunk we've left out in our analysis, perhaps one of the most significant elements of a U.S. university degree: general education. Now let's consider why this might be important to an employer when they are looking for competency in a specific subject matter (in this case, accounting). Students choose their general education courses amid a permitted list. If we added general education into our analysis we'd have eight additional courses in our 'differences' list and there would be infinite combinations of these courses to further distinguish between candidates.
+
+The general education courses a student selects relate to their personal interests, and if they've received good guidance, to their professional interests. They can help employers understand _who_ they are and their _motivations_ and uncover skills employers may not even have considered an asset in the first place. 
 
 `Candidate #3`, Bachelor of Science in Accounting, SNHU
 
