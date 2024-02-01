@@ -152,7 +152,7 @@ Students at USC are required to fulfill 10 general education requirements:
 | GE-G. Citizenship in a Diverse World | 51 |
 | GE-H. Traditions and Historical Foundations | 64 |
 
-There are infinite combinations of courses students may have taken. So to render a degree down to its subject matter and the university it's from doesn't tell us much at all about the skills they have gained over the duration of their studies.
+There are infinite combinations of courses a student may have taken. To render a degree down to its subject matter and the granting university doesn't tell us much about specific skills acquired. We'd need, at minimum, a list of learning opportunities (in this case, courses) undertaken.
 
 `Candidate #3`, Bachelor of Science in Accounting, SNHU
 
