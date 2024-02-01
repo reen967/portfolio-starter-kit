@@ -10,10 +10,10 @@ author: Arina
 
 A taxonomy is a classification system. A skills taxonomy provides a framework for understanding skills allowing us to assess:
 
-⋅⋅⋅what people can do,⋅⋅
-⋅⋅⋅what organizations need people to do,⋅⋅
-⋅⋅⋅identify the people who can do those things,⋅⋅
-⋅⋅⋅identify and recommend learning content.⋅⋅
+- what people can do,
+- what organizations need people to do,
+- identify the people who can do those things,
+- identify and recommend learning content.
 
 In higher education skills taxonomies can help institutions assess prior learning, preventing learners from unnecessarily repeating material they are already competent in, and identify knowledge gaps to make recommendations on the learning materials that can be used to fill them.
 
@@ -25,7 +25,7 @@ Existing Skills Taxonomies
 - [ESCO (European Skills, Competences, Qualifications and
 Occupations)](https://esco.ec.europa.eu/en)
 
-⋅⋅⋅ _tbh taxonomies are confusing and I'm not a data scientist so won't delve any further into the details._ ⋅⋅
+- _tbh taxonomies are confusing and I'm not a data scientist so won't delve any further into the details._
 
 I started this website as a sort of container of ideas. If you've stumbled across this, hi! Feel free to point out the flaws in my logic. Now onto the taxonomy. 
 
