@@ -39,6 +39,10 @@ Imagine this: you are an employer looking to hire a junior accountant and you re
 - Candidate #2 also has a Bachelor of Accounting from the University of Southern California (USC)
 - Candidate #3 has a Bachelor of Accounting from Southern New Hampshire University (SNHU)
 
-How do you determine which candidate is best suited for the position? They all have the same degree (Bachelor of Science in Accounting.) Candidate #1 and Candidate #2 earned their degree from the same university (USC) and Candidate #3 earned their degree from SNHU. Employers will likely rule out Candidate #3 by comparing SNHU's 92.1% acceptance rate to USC's 12.5% acceptance rate. The candidates are evaluated on perceived prestige rather than the skills they have and the employer still doesn't understand the skills gained from a Bachelor of Science in Accounting from either university.
+How do you determine which candidate is best suited for the position? There's no way to do this based on the candidates' suitability to the role, so you'd have to draw from irrelevant information (the university where they earned their degree) to reach a conclusion.
 
-Let's say you had a bit more information about the programs. This is 
+The candidates all have the same degree (Bachelor of Science in Accounting.) Candidate #1 and Candidate #2 earned their degree from the same university (USC) and Candidate #3 earned their degree from SNHU. Candidate #3 will likely be ruled out on the basis that SNHU's acceptance rate of 92.1% is much higher than USC's 12.5%, thereby it is a more prestigious university and must be better. This process uses the reasoning that prestige = competency. Not only is this reasoning flawed but there must be a better way. Other than the obvious inequity perpetuated by this type of reasoning, the employer misses out on identifying a candidate who may be much better suited to the role they are looking to fill.
+
+Candidates are evaluated on prestige rather than competency and the employer still doesn't understand the skills gained from a Bachelor of Science in Accounting from either university.
+
+Let's say you had a bit more information about the learning opportunities the candidates undertook in pursuit of their degree. 
