@@ -50,7 +50,7 @@ Candidates are evaluated on prestige rather than competency and the employer sti
 Let's say you had a bit more information about the learning opportunities the candidates undertook to earn their degrees. 
 
 `Candidate #1`, Bachelor of Science in Accounting, USC 
-
+```js
 - BUAD 280 Introduction to Financial Accounting
 - BUAD 281 Introduction to Managerial Accounting
 - BUAD 302 Communication Strategy in Business
@@ -73,9 +73,11 @@ Let's say you had a bit more information about the learning opportunities the ca
 - ACCT 470 Advanced External Financial Reporting Issues
 - **ACCT 474 Tax Issues for Business Units**
 - **ACCT 462 Detecting Fraudulent Financial Reporting**
+```
 
 `Candidate #2`, Bachelor of Science in Accounting, USC
 
+```js
 - BUAD 280 Introduction to Financial Accounting
 - BUAD 281 Introduction to Managerial Accounting
 - BUAD 302 Communication Strategy in Business
@@ -98,7 +100,7 @@ Let's say you had a bit more information about the learning opportunities the ca
 - ACCT 470 Advanced External Financial Reporting Issues
 - **ACCT 473 Financial Statement Auditing**
 - **ACCT 416 Financial Reporting and Analysis**
-
+```
 
 `Candidate #3`, Bachelor of Science in Accounting, SNHU
 
