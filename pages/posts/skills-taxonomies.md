@@ -100,7 +100,33 @@ Let's say you had a bit more information about the learning opportunities the ca
 - "ACCT 416 Financial Reporting and Analysis"
 ```
 
-We'll get to `Candidate #3` in a sec. For now, let's quickly take a look at what we're presented with above. This is the _same_ degree from the _same_ university. But it's clear that `Candidate #1` and `Candidate #2` haven't covered the same material. 
+We'll get to `Candidate #3` in a second. For now, let's take a look at what we've been presented within the above. Here we have the _same_ degree from the _same_ university. But it's clear that `Candidate #1` and `Candidate #2` haven't covered the same material. 
+
+In a perfect world (where there's an agreed-upon skills taxonomy where all stakeholders agree on the schema + learning outcomes use the same framework) we'd have access to information about learning outcomes (aka skills gained) associated with each of these courses. In an even more perfect world, we'd have access to the candidate's grades, more precisely, how they did in the rubric designed to measure the learning outcomes. Let's pretend that course titles are enough information to go off (anything is better than the degree title and university at this point.) Now, let's dissect the differences between the courses undertaken by `Candidate #1` and `Candidate #2` to get a better understanding of just how much difference there is between the skills they've come out of their degrees with actually are (like, does all of this really matter all this much?):
+
+`Candidate #1`
+
+```js
+- BUAD 351 Economic Analysis for Business Decisions
+- BUAD 352 Macroeconomic Analysis for Business Decisions
+- MATH 118 gx Fundamental Principles of Calculus
+- ACCT 474 Tax Issues for Business Units
+- ACCT 462 Detecting Fraudulent Financial Reporting
+```
+  
+`Candidate #2`
+
+```js
+- ECON 351 x Microeconomics for Business
+- ECON 352 x Macroeconomics for Business
+- MATH 125 g Calculus I
+- ACCT 473 Financial Statement Auditing
+- ACCT 416 Financial Reporting and Analysis
+```
+
+The general jist of the first three courses seems similar enough not to be an issue: Economics, Economics, and Calculus. 
+
+The key differences between the candidates are that while `Candidate #1` has experience in `Fraudulent Reporting` and `Tax Issues`, `Candidate #2`, instead, has experience with `Auditing` and `Financial Reporting`. These differences could be significant enough to enable the prospective employer to decide which candidate is best suited for a role.
 
 `Candidate #3`, Bachelor of Science in Accounting, SNHU
 
