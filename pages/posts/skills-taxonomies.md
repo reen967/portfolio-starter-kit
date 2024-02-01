@@ -100,6 +100,8 @@ Let's say you had a bit more information about the learning opportunities the ca
 - "ACCT 416 Financial Reporting and Analysis"
 ```
 
+We'll get to `Candidate #3` in a sec. For now, let's quickly take a look at what we're presented with above. This is the _same_ degree from the _same_ university. But it's clear that `Candidate #1` and `Candidate #2` haven't covered the same material. 
+
 `Candidate #3`, Bachelor of Science in Accounting, SNHU
 
 - Course Name
