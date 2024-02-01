@@ -59,10 +59,10 @@ Let's say you had a bit more information about the learning opportunities the ca
 - BUAD 307 Marketing Fundamentals
 - BUAD 310g Applied Business Statistics
 - BUAD 311 Operations Management
-- **BUAD 351 Economic Analysis for Business Decisions**
-- **BUAD 352 Macroeconomic Analysis for Business Decisions**
+- "BUAD 351 Economic Analysis for Business Decisions"
+- "BUAD 352 Macroeconomic Analysis for Business Decisions"
 - BUAD 497 Strategic Management
-- **MATH 118gx Fundamental Principles of Calculus**
+- "MATH 118 gx Fundamental Principles of Calculus"
 - ACCT 370 External Financial Reporting Issues
 - ACCT 371 Introduction to Accounting Systems
 - ACCT 372 Internal Reporting Issues
@@ -71,8 +71,8 @@ Let's say you had a bit more information about the learning opportunities the ca
 - ACCT 377 Valuation for Financial Statement Purposes
 - ACCT 430 Accounting Ethics
 - ACCT 470 Advanced External Financial Reporting Issues
-- **ACCT 474 Tax Issues for Business Units**
-- **ACCT 462 Detecting Fraudulent Financial Reporting**
+- "ACCT 474 Tax Issues for Business Units"
+- "ACCT 462 Detecting Fraudulent Financial Reporting"
 ```
 
 `Candidate #2`, Bachelor of Science in Accounting, USC
@@ -84,12 +84,12 @@ Let's say you had a bit more information about the learning opportunities the ca
 - BUAD 304 Organizational Behavior and Leadership
 - BUAD 306 Business Finance
 - BUAD 307 Marketing Fundamentals
-- BUAD 310g Applied Business Statistics
+- BUAD 310 g Applied Business Statistics
 - BUAD 311 Operations Management
-- **ECON 351x Microeconomics for Business**
-- **ECON 352x Macroeconomics for Business**
+- "ECON 351 x Microeconomics for Business"
+- "ECON 352 x Macroeconomics for Business"
 - BUAD 497 Strategic Management
-- **MATH 125g Calculus I**
+- "MATH 125 g Calculus I"
 - ACCT 370 External Financial Reporting Issues
 - ACCT 371 Introduction to Accounting Systems
 - ACCT 372 Internal Reporting Issues
@@ -98,8 +98,8 @@ Let's say you had a bit more information about the learning opportunities the ca
 - ACCT 377 Valuation for Financial Statement Purposes
 - ACCT 430 Accounting Ethics
 - ACCT 470 Advanced External Financial Reporting Issues
-- **ACCT 473 Financial Statement Auditing**
-- **ACCT 416 Financial Reporting and Analysis**
+- "ACCT 473 Financial Statement Auditing"
+- "ACCT 416 Financial Reporting and Analysis"
 ```
 
 `Candidate #3`, Bachelor of Science in Accounting, SNHU
