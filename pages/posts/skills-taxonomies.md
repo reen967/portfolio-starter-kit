@@ -25,7 +25,7 @@ Existing Skills Taxonomies
 - [ESCO (European Skills, Competences, Qualifications and
 Occupations)](https://esco.ec.europa.eu/en)
 
-_tbh taxonomies are confusing and I'm not a data scientist so won't delve any further into the details._
+> _tbh taxonomies are confusing and I'm not a data scientist so won't delve any further into the details._
 
 I started this website as a sort of container of ideas. If you've stumbled across this, hi! Feel free to point out the flaws in my logic. Now onto the taxonomy. 
 
