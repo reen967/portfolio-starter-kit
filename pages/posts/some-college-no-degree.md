@@ -14,7 +14,7 @@ The performance of our organizations relies on our ability to recognize skills. 
 
 These are alarming figures and they don't even include the growing number of individuals with learning acquired outside of traditional post-secondary pathways.
 
-| **Head** | **SCND (million)** | **Working-age Americans (million)** | **% of WAA that have SCND** |
+| **Head** | **SCND (million)** | **Working-age Americans (million)** | **%age of WAA that have SCND** |
 |----------|--------------------|-------------------------------------|-----------------------------|
 | **2021** |        40.4        |                205.3                |            19.7%            |
 | **2020** |        39.0        |                205.4                |            19.0%            |
