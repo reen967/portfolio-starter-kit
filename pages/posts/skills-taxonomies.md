@@ -25,7 +25,7 @@ Existing Skills Taxonomies
 - [ESCO (European Skills, Competences, Qualifications and
 Occupations)](https://esco.ec.europa.eu/en)
 
-- _tbh taxonomies are confusing and I'm not a data scientist so won't delve any further into the details._
+_tbh taxonomies are confusing and I'm not a data scientist so won't delve any further into the details._
 
 I started this website as a sort of container of ideas. If you've stumbled across this, hi! Feel free to point out the flaws in my logic. Now onto the taxonomy. 
 
@@ -136,6 +136,23 @@ These differences could be significant enough to enable the prospective employer
 There's a huge chunk we've left out in our analysis, perhaps one of the most significant elements of a U.S. university degree: general education. Now let's consider why this might be important to an employer when they are looking for competency in a specific subject matter (in this case, accounting). Students choose their general education courses amid a permitted list. If we added general education into our analysis we'd have eight additional courses in our 'differences' list and there would be infinite combinations of these courses to further distinguish between candidates.
 
 The general education courses a student selects relate to their personal interests, and if they've received good guidance, to their professional interests. They can help employers understand _who_ they are and their _motivations_ and uncover skills employers may not even have considered an asset in the first place. 
+
+Students at USC are required to fulfill 10 general education requirements:
+
+| **General Education Requirement** | **# of courses available to select from** |
+|------|-----|
+| Writing: Lower-division | 1 |
+| Writing: Upper-division | 1 |
+| GE-A. The Arts | 54 |
+| GE-B. Humanistic Inquiry | 153 |
+| GE-C. Social Analysis | 79|
+| GE-D. Life Sciences | 26 |
+| GE-E. Physical Sciences | 20 |
+| GE-F.  Quantitative Reasoning | 28 |
+| GE-G. Citizenship in a Diverse World | 51 |
+| GE-H. Traditions and Historical Foundations | 64 |
+
+There are infinite combinations of courses students may have taken. So to render a degree down to its subject matter and the university it's from doesn't tell us much at all about the skills they have gained while pursuing their studies.
 
 `Candidate #3`, Bachelor of Science in Accounting, SNHU
 
