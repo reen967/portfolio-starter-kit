@@ -55,12 +55,12 @@ Let's say you had a bit more information about the learning opportunities the ca
 - BUAD 304 Organizational Behavior and Leadership
 - BUAD 306 Business Finance
 - BUAD 307 Marketing Fundamentals
-- BUAD 310g Applied Business Statistics
+- BUAD 310 Applied Business Statistics
 - BUAD 311 Operations Management
 - "BUAD 351 Economic Analysis for Business Decisions"
 - "BUAD 352 Macroeconomic Analysis for Business Decisions"
 - BUAD 497 Strategic Management
-- "MATH 118 gx Fundamental Principles of Calculus"
+- "MATH 118 Fundamental Principles of Calculus"
 - ACCT 370 External Financial Reporting Issues
 - ACCT 371 Introduction to Accounting Systems
 - ACCT 372 Internal Reporting Issues
@@ -82,12 +82,12 @@ Let's say you had a bit more information about the learning opportunities the ca
 - BUAD 304 Organizational Behavior and Leadership
 - BUAD 306 Business Finance
 - BUAD 307 Marketing Fundamentals
-- BUAD 310 g Applied Business Statistics
+- BUAD 310 Applied Business Statistics
 - BUAD 311 Operations Management
-- "ECON 351 x Microeconomics for Business"
-- "ECON 352 x Macroeconomics for Business"
+- "ECON 351 Microeconomics for Business"
+- "ECON 352 Macroeconomics for Business"
 - BUAD 497 Strategic Management
-- "MATH 125 g Calculus I"
+- "MATH 125 Calculus I"
 - ACCT 370 External Financial Reporting Issues
 - ACCT 371 Introduction to Accounting Systems
 - ACCT 372 Internal Reporting Issues
@@ -109,7 +109,7 @@ In a perfect world (where there's an agreed-upon skills taxonomy where all stake
 ```js
 - BUAD 351 Economic Analysis for Business Decisions
 - BUAD 352 Macroeconomic Analysis for Business Decisions
-- MATH 118 gx Fundamental Principles of Calculus
+- MATH 118 Fundamental Principles of Calculus
 - ACCT 474 Tax Issues for Business Units
 - ACCT 462 Detecting Fraudulent Financial Reporting
 ```
@@ -117,9 +117,9 @@ In a perfect world (where there's an agreed-upon skills taxonomy where all stake
 `Candidate #2`
 
 ```js
-- ECON 351 x Microeconomics for Business
-- ECON 352 x Macroeconomics for Business
-- MATH 125 g Calculus I
+- ECON 351 Microeconomics for Business
+- ECON 352 Macroeconomics for Business
+- MATH 125 Calculus I
 - ACCT 473 Financial Statement Auditing
 - ACCT 416 Financial Reporting and Analysis
 ```
