@@ -1,29 +1,13 @@
+---
+type: tag
+title: Tagged Posts
+---
 
-To handle multiple tags in your Next.js application, you can modify your approach to handle an array of tags rather than a single tag. Here's how you can do it:
-
-jsx
-Copy code
 import { useRouter } from 'next/router'
 
 export const TagName = () => {
-  const { tags } = useRouter().query
-  return Array.isArray(tags) ? tags : [tags] || []
+  const { tag } = useRouter().query
+  return tag || null
 }
 
-// In your component where you display tagged posts
-const TaggedPosts = () => {
-  const tags = TagName()
-  
-  return (
-    <div>
-      {tags.map((tag, index) => (
-        <div key={index}>
-          # Posts Tagged with “{tag}”
-          {/* Render posts associated with the current tag */}
-        </div>
-      ))}
-    </div>
-  )
-}
-
-export default TaggedPosts
+# Posts Tagged with “<TagName/>” 
