@@ -8,6 +8,8 @@ author: Arina
 
 # Skills Taxonomies
 
+<h1 style="color:blue;">A Blue Heading</h1>
+
 A taxonomy is a classification system. A skills taxonomy provides a framework for understanding skills allowing us to assess:
 
 - what people can do,
