@@ -124,9 +124,14 @@ In a perfect world (where there's an agreed-upon skills taxonomy where all stake
 - ACCT 416 Financial Reporting and Analysis
 ```
 
-The general jist of the first three courses seems similar enough not to be an issue: Economics, Economics, and Calculus. 
+The general gist of the first three courses seems similar enough not to be an issue: Economics, Economics, and Calculus. 
 
-The key differences between the candidates are that while `Candidate #1` has experience in `Fraudulent Reporting` and `Tax Issues`, `Candidate #2`, instead, has experience with `Auditing` and `Financial Reporting`. These differences could be significant enough to enable the prospective employer to decide which candidate is best suited for a role.
+The key differences between the candidates are that while
+
+- `Candidate #1` has experience in _Fraudulent Reporting_ and _Tax Issues_,
+- `Candidate #2`, instead, has experience with _Auditing_ and _Financial Reporting_.
+
+These differences could be significant enough to enable the prospective employer to decide which candidate is best suited for a role.
 
 `Candidate #3`, Bachelor of Science in Accounting, SNHU
 
