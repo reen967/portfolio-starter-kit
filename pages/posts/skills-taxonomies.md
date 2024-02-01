@@ -18,3 +18,25 @@ A taxonomy is a classification system. A skills taxonomy provides a framework fo
 In higher education skills taxonomies can help institutions assess prior learning, preventing learners from unnecessarily repeating material they are already competent in, and identify knowledge gaps to make recommendations on the learning materials that can be used to fill them.
 
 In the workplace skills taxonomies can help employers in the recruitment process by identifying qualified candidates. They also serve to help employers identify current talent in their organization and develop personalized learning plans to upskill individuals with the potential to fulfill organizational needs.
+
+Existing Skills Taxonomies
+
+- [O*NET (Occupational Information Network)](https://www.onetonline.org/)
+- [ESCO (European Skills, Competences, Qualifications and
+Occupations)](https://esco.ec.europa.eu/en)
+
+_tbh taxonomies are confusing and I'm not a data scientist so won't delve any further into the details._
+
+I started this website as a sort of container of ideas. If you've stumbled across this, hi! Feel free to point out the flaws in my logic. Now onto the taxonomy. 
+
+When I was working on Let Me Graduate (if you don't know about it, I suggest you read _this_. It's the anchor of my thought process and most of what I discuss can be traced back to what I wanted to achieve with the startup.)
+
+We're really bad at understanding what people can do. We're also really bad at describing what we need from people to achieve what we're trying to do. Resumes are bad. Job descriptions are bad. It feels like everyone is trying to communicate and add value but doesn't have the language to do so, leading to a ton of misunderstanding and inefficiency.
+
+Imagine this: you are an employer looking to hire a junior accountant and you receive three applications for the position.
+
+- Applicant #1 has a Bachelor of Accounting from the University of Southern California
+- Applicant #2 also has a Bachelor of Accounting from the University of Southern California
+- Applicant #3 has a Bachelor of Accounting from Southern New Hampshire University
+
+How do you determine which candidate is best suited for the position?
