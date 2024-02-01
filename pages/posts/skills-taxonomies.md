@@ -48,30 +48,30 @@ Candidates are evaluated on prestige rather than competency and the employer sti
 Let's say you had a bit more information about the learning opportunities the candidates undertook to earn their degrees. 
 
 `Candidate #1`, Bachelor of Science in Accounting, USC 
-```js
-- BUAD 280 Introduction to Financial Accounting
-- BUAD 281 Introduction to Managerial Accounting
-- BUAD 302 Communication Strategy in Business
-- BUAD 304 Organizational Behavior and Leadership
-- BUAD 306 Business Finance
-- BUAD 307 Marketing Fundamentals
-- BUAD 310 Applied Business Statistics
-- BUAD 311 Operations Management
-- "BUAD 351 Economic Analysis for Business Decisions"
-- "BUAD 352 Macroeconomic Analysis for Business Decisions"
-- BUAD 497 Strategic Management
-- "MATH 118 Fundamental Principles of Calculus"
-- ACCT 370 External Financial Reporting Issues
-- ACCT 371 Introduction to Accounting Systems
-- ACCT 372 Internal Reporting Issues
-- ACCT 373 Introduction to Auditing and Assurance Services
-- ACCT 374 Introduction to Tax Issues
-- ACCT 377 Valuation for Financial Statement Purposes
-- ACCT 430 Accounting Ethics
-- ACCT 470 Advanced External Financial Reporting Issues
-- "ACCT 474 Tax Issues for Business Units"
-- "ACCT 462 Detecting Fraudulent Financial Reporting"
-```
+
+|---------------------|
+| BUAD 280 Introduction to Financial Accounting |
+| BUAD 281 Introduction to Managerial Accounting |
+| BUAD 302 Communication Strategy in Business |
+| BUAD 304 Organizational Behavior and Leadership |
+| BUAD 306 Business Finance |
+| BUAD 307 Marketing Fundamentals |
+| BUAD 310 Applied Business Statistics |
+| BUAD 311 Operations Management |
+| BUAD 351 Economic Analysis for Business Decisions |
+| BUAD 352 Macroeconomic Analysis for Business Decisions |
+| BUAD 497 Strategic Management |
+| MATH 118 Fundamental Principles of Calculus |
+| ACCT 370 External Financial Reporting Issues |
+| ACCT 371 Introduction to Accounting Systems |
+| ACCT 372 Internal Reporting Issues |
+| ACCT 373 Introduction to Auditing and Assurance Services |
+| ACCT 374 Introduction to Tax Issues |
+| ACCT 377 Valuation for Financial Statement Purposes |
+| ACCT 430 Accounting Ethics |
+| ACCT 470 Advanced External Financial Reporting Issues |
+| ACCT 474 Tax Issues for Business Units |
+| ACCT 462 Detecting Fraudulent Financial Reporting |
 
 `Candidate #2`, Bachelor of Science in Accounting, USC
 
