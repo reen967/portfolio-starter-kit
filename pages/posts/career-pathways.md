@@ -6,21 +6,21 @@ tag: career pathways, pathways
 author: You
 ---
 
-# Career Pathways
+## Career Pathways
 
 A bit about why it's important to have clear career pathways, both to motivate individuals and for organizations to understand their talent needs.
 
-## Restaurant Industry
+### Restaurant Industry
 
-### McDonald's
+#### McDonald's
 
-### J D Weatherspoons
+#### J D Weatherspoons
 
-## Corporate Careers
+### Corporate Careers
 
-### Bank
+#### Bank
 
-### Consulting
+#### Consulting
 
 Despite direct competition for both clients and talent, the 'Big 3' in consulting has different titles for seemingly similar roles:
 
@@ -81,24 +81,24 @@ Despite direct competition for both clients and talent, the 'Big 3' in consultin
 
 
 
-## Tech Industry
+### Tech Industry
 
-### Google
+#### Google
 
-### Amazon
+#### Amazon
 
-## Certification in Industry Pathways
+### Certification in Industry Pathways
 
 This poses the question, why do we need college? The argument usually goes that these professions require a degree, but with clear certification pathways, is college really the best place for this type of training?
 
-### Medical
+#### Medical
 
-### Law
+#### Law
 
-## Trades (unionized)
+### Trades (unionized)
 
 About unionized aspects. Gardener quote. 
 
-### HVAC
+#### HVAC
 
-### Electrical
+#### Electrical
