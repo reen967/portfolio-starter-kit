@@ -1,6 +1,6 @@
 ---
 title: Career Pathways
-date: 2025/01/01
+date: 2024/01/01
 description: Multi-industry examples of career pathways.
 tag: career pathways, pathways
 author: You
@@ -21,6 +21,27 @@ A bit about why it's important to have clear career pathways, both to motivate i
 ### Bank
 
 ### Consulting
+
+Despite direct competition for both clients and talent, the 'Big 3' in consulting has different titles for seemingly similar roles:
+
+| **McKinsey** | **BCG** | **Bain** |
+|--------------|---------|----------|
+| Business Analyst | Associate | Associate Consultant |
+|     |       |      |
+| Senior Business Analyst/Junior Associate | Senior Associate | Senior Associate Consultant |
+| Associate | Consultant | Consultant |
+|     |     |     |
+| Engagement Manager | Project Leader | Manager | 
+|       |       | Senior Manager |
+| Associate Partner | Principle |      |
+|        |       | Associate Partner |
+| Partner | Partner |        |
+|         |       | Partner |
+|       | Partner & Managing Director |    |
+|       |  |     |
+| ... | ... | ... |
+| Senior Partner | Senior Partner & Managing Director | Director |
+
 
 ## Tech Industry
 
