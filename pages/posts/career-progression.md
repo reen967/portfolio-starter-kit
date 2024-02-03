@@ -1,6 +1,6 @@
 ---
 title: Career Pathways
-date: 2021/3/18
+date: 2024/02/03
 description: Multi-industry examples of career pathways.
 tag: career pathways, pathways
 author: You
