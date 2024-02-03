@@ -42,6 +42,49 @@ Despite direct competition for both clients and talent, the 'Big 3' in consultin
 | ... | ... |
 | ... | Senior Partner |
 
+**McKinsey**
+Year 1 Business Analyst
+Year 2 "              "
+          |
+          |
+          V
+Year 3 - Senior Business Analyst/Junior Associate
+          |
+          |
+          V
+Year 4 - Associate
+Year 5 - "       "
+          |
+          |
+          V
+Year 6 - Enagagement Manager
+Year 7 - "                 "
+          |
+          |
+          V
+Year 8 - Associate Partner
+Year 9 - "               "
+          |
+          |
+          V
+Year 10 - Partner
+Year 11 - "     "
+Year 12 - "     "
+Year 13 - "     "
+          |
+          |
+          V
+....... - .......
+          |
+          |
+          V
+....... - Senior Partner
+
+
+
+
+
+
 | **BCG** |   |
 |---------|---|
 | Year 1 | Associate | 
