@@ -25,6 +25,7 @@ A bit about why it's important to have clear career pathways, both to motivate i
 Despite direct competition for both clients and talent, the 'Big 3' in consulting has different titles for seemingly similar roles:
 
 | **McKinsey** |
+|--------------|
 | Year 1 | Business Analyst | 
 | Year 2 | "              " |
 | Year 3 | Senior Business Analyst/Junior Associate |
@@ -42,6 +43,7 @@ Despite direct competition for both clients and talent, the 'Big 3' in consultin
 | ... | Senior Partner |
 
 | **BCG** |
+|---------|
 | Year 1 | Associate | 
 | Year 2 | "              " |
 | Year 3 | Senior Associate |
@@ -60,6 +62,7 @@ Despite direct competition for both clients and talent, the 'Big 3' in consultin
 
 
 | **Bain** |
+|----------|
 | Year 1 | Associate Consultant| 
 | Year 2 | "                 " |
 | Year 3 | Senior Associate Consultant |
