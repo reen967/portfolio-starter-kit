@@ -1,4 +1,3 @@
-
 ---
 title: Unleashing Potential: Beyond the Walls of Higher Ed
 date: 2024/02/06
@@ -7,7 +6,7 @@ tag: career pathways, pathways, workforce development, higher ed
 author: Arina
 ---
 
-## Unleashing Potential: Beyond the Walls of Higher Ed
+# Unleashing Potential: Beyond the Walls of Higher Ed
 
 In the complex dance between education and the workforce, the impetus for recognizing learning often rests on the shoulders of postsecondary institutions. However, this creates a formidable barrier for the 20% of working-age Americans with [Some College No Degree (SCND)](https://nscresearchcenter.org/wp-content/uploads/SCNCReportMay2022.pdf), whose learning experiences defy easy evaluation by employers. The narrative surrounding non-traditional postsecondary learning has long suggested that employers undervalue it. Yet, the real issue may not be a lack of appreciation but rather a lack of tools to evaluate and understand this learning.
 
