@@ -1,6 +1,6 @@
 ---
 title: Unleashing Potential - Beyond the Walls of Higher Ed
-date: 2024/01/01
+date: 2024/02/06
 description: Exploring the relationship between workforce training and higher ed.
 tag: career pathways, pathways, workforce development, higher ed
 author: Arina
