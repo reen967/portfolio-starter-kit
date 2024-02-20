@@ -1,11 +1,3 @@
----
-title: Markdown Examples
-date: 2025/01/01
-description: View examples of all possible Markdown options.
-tag: web development
-author: You
----
-
 # Markdown Examples
 
 ## h2 Heading
