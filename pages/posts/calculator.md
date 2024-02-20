@@ -9,4 +9,4 @@ author: You
 ## Tuition Revenue vs Student Success Calculator
 
 
-<iframe width="546" height="511" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=115A764DD30B85D6%21333&authkey=%21AGBO63tfJ8hn3Vc&em=2&wdAllowInteractivity=False&Item='calculator'!A1%3AD23&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=115A764DD30B85D6%21333&authkey=%21AGBO63tfJ8hn3Vc&em=2&wdAllowInteractivity=False&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
