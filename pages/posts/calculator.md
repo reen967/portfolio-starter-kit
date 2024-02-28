@@ -10,3 +10,7 @@ author: Arina
 
 
 <iframe width="417" height="669" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=115A764DD30B85D6%21333&authkey=%21AGBO63tfJ8hn3Vc&em=2&wdAllowInteractivity=False&AllowTyping=True&ActiveCell='calculator'!D3&Item='calculator'!A1%3AF29&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+
+
+<script src="https://services.onetcenter.org/embed/ip.js?client=resume1"></script>
+<div class="embed-onet-ip"></div>
